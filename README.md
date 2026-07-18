@@ -4,17 +4,17 @@
 ## Quick Start
 
 ```bash
-bash <(curl -Ls https://gh.ikl.ink/https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
+bash <(curl -Ls https://gh.ikl.ink/https://raw.githubusercontent.com/DsTansice/3x-ui-RPA/refs/heads/main/install.sh)
 ```
 
 To install a specific version, append its tag (e.g. `v3.4.0`):
 
 ```bash
-bash <(curl -Ls https://gh.ikl.ink/https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh) v3.4.0
+bash <(curl -Ls https://gh.ikl.ink/https://raw.githubusercontent.com/DsTansice/3x-ui-RPA/refs/heads/main/install.sh) v3.4.0
 ```
 
 To install the rolling **dev** build (latest per-commit pre-release from `main`, not a stable release), pass `dev-latest`:
 
 ```bash
-bash <(curl -Ls https://gh.ikl.ink/https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh) dev-latest
+bash <(curl -Ls https://gh.ikl.ink/https://raw.githubusercontent.com/DsTansice/3x-ui-RPA/refs/heads/main/install.sh) dev-latest
 ```
